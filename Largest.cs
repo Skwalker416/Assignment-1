@@ -10,7 +10,7 @@ namespace  C__Assignment_1
 	
 	           int[] myArray = new int[] { 67, 8, 24, 50, 13, 10, 5 };
 
-                    int largest = int.MinValue;
+                    int largest = int.MaxValue;
                     int second = int.MinValue;
             foreach (int i in myArray)
         {
